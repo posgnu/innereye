@@ -7,6 +7,7 @@ author={Zuo, Fei and Li, Xiaopeng and Young, Patrick and Luo,Lannan and Zeng,Qia
 booktitle={Proceedings of the 2019 Network and Distributed Systems Security Symposium (NDSS)},
 year={2019} }
 ```
+![./overview.png]()
 The main purpose of this implementation is for providing a baseline for cross-platform binary code embedding research and the experiment results appeared in [Improving Cross-Platform Binary Analysis using Representation Learning via Graph Alignment](https://github.com/yonsei-cysec/XBA).
 
 ## Getting Started
